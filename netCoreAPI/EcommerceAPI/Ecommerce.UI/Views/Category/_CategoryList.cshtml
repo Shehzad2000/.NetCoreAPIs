@@ -1,0 +1,73 @@
+﻿@model IEnumerable<Ecommerce.Shared.Domain.CategoryDomain>
+
+<div class="row">
+    <div class="col-lg-12">
+        <div class="ibox ">
+            <div class="ibox-title">
+                @*<h5>Basic Data Tables example with responsive plugin</h5>*@
+                <button type="button" class="btn btn-danger " data-toggle="modal" data-target="#myCModal">
+                    <i class="fa fa-plus-square-o"><strong>  Add LinePort</strong></i>
+                </button>
+                <div class="ibox-tools">
+                    <a class="collapse-link">
+                        <i class="fa fa-chevron-up"></i>
+                    </a>
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                        <i class="fa fa-wrench"></i>
+                    </a>
+                    <ul class="dropdown-menu dropdown-user">
+                        <li>
+                            <a href="#" class="dropdown-item">Config option 1</a>
+                        </li>
+                        <li>
+                            <a href="#" class="dropdown-item">Config option 2</a>
+                        </li>
+                    </ul>
+                    <a class="close-link">
+                        <i class="fa fa-times"></i>
+                    </a>
+                </div>
+            </div>
+            </div>
+            </div>
+            <table class="table">
+    <thead>
+        <tr>
+            <th>
+                model.CategoryID
+            </th>
+            <th>
+                model.CategoryName
+            </th>
+            <th>
+                Status
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @item.CategoryID
+            </td>
+            <td>
+                @item.CategoryName
+            </td>
+            <td>
+                @item.Status
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+</div>
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+

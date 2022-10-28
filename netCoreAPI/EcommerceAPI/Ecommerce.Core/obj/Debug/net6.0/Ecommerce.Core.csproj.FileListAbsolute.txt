@@ -1,0 +1,17 @@
+C:\Users\msheh\OneDrive\Desktop\EcommerceAPI\Ecommerce.Core\obj\Debug\net6.0\Ecommerce.Core.csproj.AssemblyReference.cache
+C:\Users\msheh\OneDrive\Desktop\EcommerceAPI\Ecommerce.Core\obj\Debug\net6.0\Ecommerce.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msheh\OneDrive\Desktop\EcommerceAPI\Ecommerce.Core\obj\Debug\net6.0\Ecommerce.Core.AssemblyInfoInputs.cache
+C:\Users\msheh\OneDrive\Desktop\EcommerceAPI\Ecommerce.Core\obj\Debug\net6.0\Ecommerce.Core.AssemblyInfo.cs
+C:\Users\msheh\OneDrive\Desktop\EcommerceAPI\Ecommerce.Core\obj\Debug\net6.0\Ecommerce.Core.csproj.CoreCompileInputs.cache
+C:\Users\msheh\OneDrive\Desktop\EcommerceAPI\Ecommerce.Core\bin\Debug\net6.0\Ecommerce.Core.deps.json
+C:\Users\msheh\OneDrive\Desktop\EcommerceAPI\Ecommerce.Core\bin\Debug\net6.0\Ecommerce.Core.runtimeconfig.json
+C:\Users\msheh\OneDrive\Desktop\EcommerceAPI\Ecommerce.Core\bin\Debug\net6.0\Ecommerce.Core.dll
+C:\Users\msheh\OneDrive\Desktop\EcommerceAPI\Ecommerce.Core\bin\Debug\net6.0\Ecommerce.Core.pdb
+C:\Users\msheh\OneDrive\Desktop\EcommerceAPI\Ecommerce.Core\bin\Debug\net6.0\Ecommerce.Shared.dll
+C:\Users\msheh\OneDrive\Desktop\EcommerceAPI\Ecommerce.Core\bin\Debug\net6.0\Ecommerce.Shared.pdb
+C:\Users\msheh\OneDrive\Desktop\EcommerceAPI\Ecommerce.Core\obj\Debug\net6.0\Ecommerce.Core.csproj.CopyComplete
+C:\Users\msheh\OneDrive\Desktop\EcommerceAPI\Ecommerce.Core\obj\Debug\net6.0\Ecommerce.Core.dll
+C:\Users\msheh\OneDrive\Desktop\EcommerceAPI\Ecommerce.Core\obj\Debug\net6.0\refint\Ecommerce.Core.dll
+C:\Users\msheh\OneDrive\Desktop\EcommerceAPI\Ecommerce.Core\obj\Debug\net6.0\Ecommerce.Core.pdb
+C:\Users\msheh\OneDrive\Desktop\EcommerceAPI\Ecommerce.Core\obj\Debug\net6.0\Ecommerce.Core.genruntimeconfig.cache
+C:\Users\msheh\OneDrive\Desktop\EcommerceAPI\Ecommerce.Core\obj\Debug\net6.0\ref\Ecommerce.Core.dll

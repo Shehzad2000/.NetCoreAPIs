@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "+sY9mWdTeQKS7EvlA4G5xScEcMO7VznpQnB+a/p5SdDjVn4y0+Jq7LXx3s+WmCKn+vIoGbO01MY2vrfiM/F+wA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\msheh\\OneDrive\\Desktop\\EcommerceAPI\\Ecommerce.Shared\\Ecommerce.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\msheh\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\msheh\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.14\\microsoft.aspnetcore.http.features.5.0.14.nupkg.sha512",
+    "C:\\Users\\msheh\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\msheh\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\msheh\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

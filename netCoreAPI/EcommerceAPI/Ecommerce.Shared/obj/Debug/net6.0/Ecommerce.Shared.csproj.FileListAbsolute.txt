@@ -1,0 +1,12 @@
+C:\Users\msheh\OneDrive\Desktop\EcommerceAPI\Ecommerce.Shared\bin\Debug\net6.0\Ecommerce.Shared.deps.json
+C:\Users\msheh\OneDrive\Desktop\EcommerceAPI\Ecommerce.Shared\bin\Debug\net6.0\Ecommerce.Shared.dll
+C:\Users\msheh\OneDrive\Desktop\EcommerceAPI\Ecommerce.Shared\bin\Debug\net6.0\Ecommerce.Shared.pdb
+C:\Users\msheh\OneDrive\Desktop\EcommerceAPI\Ecommerce.Shared\obj\Debug\net6.0\Ecommerce.Shared.csproj.AssemblyReference.cache
+C:\Users\msheh\OneDrive\Desktop\EcommerceAPI\Ecommerce.Shared\obj\Debug\net6.0\Ecommerce.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msheh\OneDrive\Desktop\EcommerceAPI\Ecommerce.Shared\obj\Debug\net6.0\Ecommerce.Shared.AssemblyInfoInputs.cache
+C:\Users\msheh\OneDrive\Desktop\EcommerceAPI\Ecommerce.Shared\obj\Debug\net6.0\Ecommerce.Shared.AssemblyInfo.cs
+C:\Users\msheh\OneDrive\Desktop\EcommerceAPI\Ecommerce.Shared\obj\Debug\net6.0\Ecommerce.Shared.csproj.CoreCompileInputs.cache
+C:\Users\msheh\OneDrive\Desktop\EcommerceAPI\Ecommerce.Shared\obj\Debug\net6.0\Ecommerce.Shared.dll
+C:\Users\msheh\OneDrive\Desktop\EcommerceAPI\Ecommerce.Shared\obj\Debug\net6.0\refint\Ecommerce.Shared.dll
+C:\Users\msheh\OneDrive\Desktop\EcommerceAPI\Ecommerce.Shared\obj\Debug\net6.0\Ecommerce.Shared.pdb
+C:\Users\msheh\OneDrive\Desktop\EcommerceAPI\Ecommerce.Shared\obj\Debug\net6.0\ref\Ecommerce.Shared.dll
